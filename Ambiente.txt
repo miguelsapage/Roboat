@@ -1,0 +1,11 @@
+Tamanho da janela de simulação:
+650 500
+
+Localização dos objetos:
+Cais Rectangle(Point(0,35),Point(10,40))
+Ilha Circle(Point(10,80), 3)
+Ilha Circle(Point(26,76), 3)
+Ilha Circle(Point(82,25), 3)
+Ilha Circle(Point(75,60), 3)
+Ilha Circle(Point(40,52), 3)
+Ilha Circle(Point(57,85), 3)
